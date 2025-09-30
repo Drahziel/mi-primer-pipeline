@@ -10,7 +10,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo '🏗️ Compilando proyecto...'
+                echo '🏗️ Probando webhook CI/CD'
             }
         }
 
